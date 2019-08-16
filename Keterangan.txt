@@ -1,0 +1,7 @@
+1. Frontend dibagi menjadi 2 development
+ - File production ada di dalam folder dist
+ - Index.html dalam folder dist hanya berjalan di server atau virtual server
+ - Selain folder dist merupakan file development
+2. Backend terdiri dari 2 folder
+ - REST-API ada di dalam folder api
+ - Folder s3-upload merupakan library dari AWS
